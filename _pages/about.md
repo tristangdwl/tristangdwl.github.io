@@ -8,12 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is my website
+Hi! And welcome to my website! I am a PhD Student in mathematics at the Courant Institute of Mathematical Sciences in New York. I have been conducting my research under the supervision of Mike O'Neil in the Fast algorithms at Courant group. My research currently focuses on several aspects of solving elliptic surface PDEs.
 
-This is a header
-======
-Something in the header
-
-This is a section
-------
-Something in the section
