@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Mathematics, New York University, 2023
+  On the solution of elliptic partial differential equations on surfaces: Regularity and numerical approaches
+  Advisor: Prof. Mike O'Neil
 * B.S. in Honours Integrated Sience (Physics Concentration), McMaster University, 2017
-* Ph.D in Mathematics, New York University, 2023 (expected)
 
