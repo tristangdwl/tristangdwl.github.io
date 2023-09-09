@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tristan Goodwill"
 title_separator          : "-"
 name                     : &name "Tristan Goodwill"
-description              : &description "PhD student at the Courant Institute for Mathematical Sciences"
+description              : &description "William H. Kruskal Instructor, CCAM, University of Chicago"
 url                      : https://tristangdwl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tristangdwl/tristangdwl.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tristan Goodwill"
   avatar           : "profile.png"
-  bio              : "PhD Student at the Courant Institute for Mathematical Sciences"
-  location         : "New York, New York"
+  bio              : "William H. Kruskal Instructor, CCAM, University of Chicago"
+  location         : "Chicago, Illinois"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "tristan.goodwill1@gmail.com"
+  email            : "tgoodwill@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
