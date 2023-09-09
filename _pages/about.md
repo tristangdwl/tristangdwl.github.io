@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hi! And welcome to my W.I.P. website! I am a PhD Student in mathematics at the Courant Institute of Mathematical Sciences in New York. I have been conducting my research under the supervision of Mike O'Neil in the Fast algorithms at Courant group. My research currently focuses on several aspects of solving elliptic surface PDEs.
+I am a William H. Kruskal Instructor in the Committee for Computation and Applied Mathematics in the Department of Statistics at the University of Chicago. My research lies at the interface of numerical computation and applied analysis. My recent work includes the study of new integral equation methods for studying topological insulators, a new integral equation method for solving elliptic PDEs on surfaces, and a study of the regularity of the Laplace-Beltrami equation on piecewise smooth surfaces.
 
