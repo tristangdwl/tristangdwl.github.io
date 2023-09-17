@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV here](http://tristangdwl.github.io/files/Goodwill_CV.pdf)
+You can [download my CV here](http://tristangdwl.github.io/files/Goodwill_CV.pdf)
 
 
 
