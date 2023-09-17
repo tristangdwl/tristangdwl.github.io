@@ -1,5 +1,5 @@
 ---
-title: "Scientific Computing in Python"
+title: "Scientific Computing with Python"
 collection: teaching
 type: "Masters course"
 permalink: /teaching/2023-fall-teaching-1
