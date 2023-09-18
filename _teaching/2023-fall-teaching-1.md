@@ -8,4 +8,4 @@ date: 2023-09-26
 location: "Chicago, IL"
 ---
 
-The course website is located here:
+The course website is located [here](https://uchi-compy23.github.io).
