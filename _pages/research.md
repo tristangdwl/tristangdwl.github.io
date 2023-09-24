@@ -8,7 +8,7 @@ author_profile: true
 The Laplace-Beltrami problem on non-smooth surfaces
 ------
 
-An integral equation method for elliptic surface PDEs
+An integral equation method for elliptic PDEs on surfaces
 ------
 
 Publications
