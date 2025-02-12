@@ -11,6 +11,25 @@ redirect_from:
 I am a William H. Kruskal Instructor in the Committee for Computational and Applied Mathematics in the Department of Statistics at the University of Chicago. My research uses the tools of numerical analysis and applied analysis to develop new fast algorithms for numerically solving PDEs. My recent work includes a new integral equation method for solving elliptic PDEs on surfaces, new integral equation methods for scattering problems involving unbounded interfaces, and a study of the regularity of PDEs on surfaces with edges and corners.
 
 
+
+## Research Projects
+
+
+### Scattering problems in unbounded interfaces
+
+![Waveguide splitters](../images/egg_soln.pdf) 
+
+![Matched gratings](../images/Matched_q_per.pdf) 
+
+[Matched_q_per.pdf](https://github.com/user-attachments/files/18774619/Matched_q_per.pdf)
+
+
+### A fast solver for surface PDEs
+PDEs on surfaces occur in a wide variety of applications.    
+![Surface Ginzburg-Landau equation](../images/surface_GL.mp4)
+
+
+
 ## Publications
 Goodwill, T. and Epstein, C. *A numerical method for scattering problems with unbounded interfaces.* Preprint [arXiv 2411.11204](https://arxiv.org/pdf/2411.11204).
 
@@ -23,15 +42,7 @@ Li, H., Goodwill, T., Wang, Z. J., and Ristroph, L. *Centre of mass location, fl
 Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S., and Plant, D. V. *DSP-free coherent-lite transceiver for next generation single wavelength optical intra-datacenter interconnects.* Optics Express, 26(7), 2018.
 
 
+## Software
+**ChunkIE A Matlab integral equation toolbox** &mdash; 
 
-## Research Projects
-### A fast solver for surface PDEs
-PDEs on surfaces occur in a wide variety of applications.    
-![Surface Ginzburg-Landau equation](../images/surface_GL.mp4) 
-
-
-### Scattering problems in unbounded interfaces
-
-![Waveguide splitters](../images/egg_soln.pdf) 
-
-![Matched gratings](../images/Matched_q_per.pdf) 
+**fmm3dbie** &mdash;
