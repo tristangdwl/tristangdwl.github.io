@@ -16,19 +16,16 @@ I am a William H. Kruskal Instructor in the Committee for Computational and Appl
 
 
 ### Scattering problems in unbounded interfaces
+I have developed a method for solving a class of decomposable scattering scattering problems involving unbounded interfaces. If the computational domain can be split into simple subdomains (such as straight waveguides or periodic gratings), then the domain Green's functions for each piece can be used to reduce the scattering problem to an integral equation on the domain boundaries. The resulting integral equation can then be analytically continued to the complex plane, where it can be safely truncated and discretized using standard integral equation techniques.
 
-![Waveguide splitters](../images/egg_soln.pdf) 
-
-![Matched gratings](../images/Matched_q_per.pdf) 
-
-![Matched gratings](https://github.com/user-attachments/files/18774619/Matched_q_per.pdf)
+![Waveguide splitters](../images/egg_soln.pdf) ![Matched gratings](Matched_q_per.pdf) ![Matched gratings](https://github.com/user-attachments/files/18774619/Matched_q_per.pdf)
 
 
 ### A fast solver for surface PDEs
 PDEs on surfaces occur in a wide variety of applications.    
 ![Surface Ginzburg-Landau equation](../images/surface_GL.mp4)
 
-
+### A domain decomposition method for waveguide circuits
 
 ## Publications
 Goodwill, T. and Epstein, C. *A numerical method for scattering problems with unbounded interfaces.* Preprint [arXiv 2411.11204](https://arxiv.org/pdf/2411.11204).
@@ -43,6 +40,6 @@ Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S.
 
 
 ## Software
-**ChunkIE A Matlab integral equation toolbox** &mdash; 
+**ChunkIE A Matlab integral equation toolbox** &mdash; A MATLAB toolbox for solving boundary integral equations in 2D.
 
-**fmm3dbie** &mdash;
+**fmm3dbie** &mdash; A package for solving boundary integral equations in 3D. Callable from Fortran and MATLAB.
