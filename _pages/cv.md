@@ -54,7 +54,7 @@ SIAM Annual Meeting 2022 &mdash; David L. Lawrence Convention Center, Pittsburgh
 
 
 ## Talks
-**Complex scattering makes for simple numerics** &mdash; February 6, 2025
+**Complex scattering makes for simple numerics** &mdash; February 6, 2025     
 Computational and Applied Math Colloquium &mdash; Committee on Computational and Applied Mathematics, University of Chicago
 
 **A fast integral equation solver for surface PDEs** &mdash; July 15, 2024    
