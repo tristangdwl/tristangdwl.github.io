@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: "CV"
+title: "Tristan Goodwill"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+## Research interests
+Numerical analysis, fast algorithms, analysis of PDEs in mathematical physics
 
 ## Education
 **Ph. D. in Mathematics**     
@@ -17,7 +19,6 @@ Adviser: Michael O'Neil
 **B. Sc.**     
 *McMaster Universiry* &mdash; 2013 - 2017     
 Honours Integrated Science (Physics) with a minor in Mathematics
-
 
 ## Employment
 **William H. Kruskal Instructor**   
