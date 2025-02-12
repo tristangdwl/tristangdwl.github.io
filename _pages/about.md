@@ -21,7 +21,7 @@ I am a William H. Kruskal Instructor in the Committee for Computational and Appl
 
 ![Matched gratings](../images/Matched_q_per.pdf) 
 
-[Matched_q_per.pdf](https://github.com/user-attachments/files/18774619/Matched_q_per.pdf)
+![Matched gratings](https://github.com/user-attachments/files/18774619/Matched_q_per.pdf)
 
 
 ### A fast solver for surface PDEs
