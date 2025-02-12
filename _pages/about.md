@@ -27,7 +27,7 @@ Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S.
 ## Research Projects
 |    | Surface PDEs |
 | ---| ---- |
-| ![](https://../images/profile_2.jpg) | PDEs on surfaces occur in a wide variety of applications.
+| ![](https://../images/profile_2.jpg) | <h3>Surface PDES</h3><br> PDEs on surfaces occur in a wide variety of applications.|
 
 
 
