@@ -43,6 +43,8 @@ Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S.
 ## Awards and other experience
 **Developer: ChunkIE A Matlab integral equation toolbox** &mdash; March 2024 - Present
 
+**Developer: fmm3dbie** &mdash; June 2024 - Present
+
 **Numerical PDEs: Analysis, Algorithms, and Data Challenges** &mdash; January - March 2024    
 Semester workshop &mdash; ICERM, Providence
 
@@ -63,7 +65,7 @@ SciCADE 2024 &mdash; National University of Singapore
 **A fast integral equation solver for surface PDEs** &mdash; March 12, 2024    
 Semester Program: Numerical PDEs: Analysis, Algorithms, and Data Challenges &mdash; ICERM, Brown University   
 
-**A fast integral equation solver for surface PDEs** &mdash; December 1, 2023
+**A fast integral equation solver for surface PDEs** &mdash; December 1, 2023     
 International Workshop on "Vector- and Tensor-Valued Surface PDEs" &mdash; TU Dresden
 
 **Integral methods for surface PDES** &mdash; August 17, 2023    
