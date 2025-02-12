@@ -12,7 +12,7 @@ Numerical analysis, fast algorithms, analysis of PDEs in mathematical physics
 
 ## Education
 **Ph. D. in Mathematics**     
-*Courant Institute of Mathematical Sciences, New York University* &mdash; 2017 - 2013    
+*Courant Institute of Mathematical Sciences, New York University* &mdash; 2017 - 2023    
 On the solution of elliptic partial differential equations on surfaces: Regularity and numerical approaches   
 Adviser: Michael O'Neil
 
