@@ -24,10 +24,7 @@ I have developed a method for solving a class of decomposable scattering scatter
 
 <img src="https://www.github.com/user-attachments/files/18774619/Matched_q_per.pdf" width="200"/> <img src="Matched_q_per.pdf" width="300"/>
 
-<img src="../images/egg_soln.pdf" width="300"/> <img src="https://tristangdwl.github.io/images/profile_2.jpg" width="300"/>
- <img src="https://tristangdwl.github.io/images/egg_soln.pdf" width="300"/>
-
-
+<img src="https://github.com/user-attachments/assets/2816d9da-41f6-4f4a-bfea-acee4ac6d43e" width="300"/>
 
 ### A fast solver for surface PDEs
 PDEs on surfaces occur in a wide variety of applications.    
