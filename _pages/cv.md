@@ -12,17 +12,17 @@ Numerical analysis, fast algorithms, analysis of PDEs in mathematical physics
 
 ## Education
 **Ph. D. in Mathematics**     
-*Courant Institute of Mathematical Sciences, New York University* &mdash; 2017 - 2023    
+*Courant Institute of Mathematical Sciences, New York University* &mdash; 2017&ndash;2023    
 On the solution of elliptic partial differential equations on surfaces: Regularity and numerical approaches   
 Adviser: Michael O'Neil
 
 **B. Sc.**     
-*McMaster Universiry* &mdash; 2013 - 2017     
+*McMaster Universiry* &mdash; 2013&ndash;2017     
 Honours Integrated Science (Physics) with a minor in Mathematics
 
 ## Employment
 **William H. Kruskal Instructor**   
-*Committee on Computational and Applied Mathematics, University of Chicago* &mdash; 2023 - Present  
+*Committee on Computational and Applied Mathematics, University of Chicago* &mdash; 2023&ndash;Present  
 
 **Teaching Assistant**   
 *Courant Institute of Mathematical Sciences, New York University* &mdash; Spring and Fall 2019, Fall 2021, Spring 2022
@@ -39,13 +39,14 @@ Li, H., Goodwill, T., Wang, Z. J., and Ristroph, L. *Centre of mass location, fl
 
 Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S., and Plant, D. V. *DSP-free coherent-lite transceiver for next generation single wavelength optical intra-datacenter interconnects.* Optics Express, 26(7), 2018.
 
+## Software development
+**ChunkIE A Matlab integral equation toolbox** &mdash; March 2024&ndash;Present
+
+**fmm3dbie** &mdash; June 2024&ndash;Present
+
 
 ## Awards and other experience
-**Developer: ChunkIE A Matlab integral equation toolbox** &mdash; March 2024 - Present
-
-**Developer: fmm3dbie** &mdash; June 2024 - Present
-
-**Numerical PDEs: Analysis, Algorithms, and Data Challenges** &mdash; January - March 2024    
+**Numerical PDEs: Analysis, Algorithms, and Data Challenges** &mdash; January&ndash;March 2024    
 Semester workshop &mdash; ICERM, Providence
 
 **Best poster award** &mdash; March 2, 2023    
