@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a William H. Kruskal Instructor in the Committee for Computational and Applied Mathematics in the Department of Statistics at the University of Chicago. My research uses the tools of numerical analysis and applied analysis to develop new fast algorithms for numerically solving PDEs. My recent work includes a new integral equation method for solving elliptic PDEs on surfaces, new integral equation methods for scattering problems involving unbounded interfaces, and a study of the regularity of PDEs on surfaces with edges and corners.
+I am a William H. Kruskal Instructor in the Committee for Computational and Applied Mathematics in the Department of Statistics at the University of Chicago. My research uses the tools of numerical analysis and applied analysis to develop new fast algorithms for numerically solving PDEs. 
+
+My recent work includes a new integral equation method for solving elliptic PDEs on surfaces, new integral equation methods for scattering problems involving unbounded interfaces, and a study of the regularity of PDEs on surfaces with edges and corners.
 
 
 
@@ -19,6 +21,12 @@ I am a William H. Kruskal Instructor in the Committee for Computational and Appl
 I have developed a method for solving a class of decomposable scattering scattering problems involving unbounded interfaces. If the computational domain can be split into simple subdomains (such as straight waveguides or periodic gratings), then the domain Green's functions for each piece can be used to reduce the scattering problem to an integral equation on the domain boundaries. The resulting integral equation can then be analytically continued to the complex plane, where it can be safely truncated and discretized using standard integral equation techniques.
 
 ![Waveguide splitters](../images/egg_soln.pdf) ![Matched gratings](Matched_q_per.pdf) ![Matched gratings](https://github.com/user-attachments/files/18774619/Matched_q_per.pdf)
+
+<img src="https://www.github.com/user-attachments/files/18774619/Matched_q_per.pdf" width="200"/> <img src="Matched_q_per.pdf" width="300"/>
+
+<img src="../images/egg_soln.pdf" width="300"/> <img src="https://tristangdwl.github.io/images/profile_2.jpg" width="300"/>
+ <img src="https://tristangdwl.github.io/images/egg_soln.pdf" width="300"/>
+
 
 
 ### A fast solver for surface PDEs
