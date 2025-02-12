@@ -25,12 +25,13 @@ Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S.
 
 
 ## Research Projects
-|    | Surface PDEs |
-| ---| ---- |
-| ![](https://../images/profile_2.jpg) | <h3>Surface PDES</h3><br> PDEs on surfaces occur in a wide variety of applications.|
+### A fast solver for surface PDEs
+PDEs on surfaces occur in a wide variety of applications.    
+![Surface Ginzburg-Landau equation](../images/surface_GL.mp4) 
 
 
+### Scattering problems in unbounded interfaces
 
+![Waveguide splitters](../images/egg_soln.pdf) 
 
-
-
+![Matched gratings](../images/Matched_q_per.pdf) 
