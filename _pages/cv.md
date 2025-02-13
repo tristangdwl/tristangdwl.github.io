@@ -17,7 +17,7 @@ On the solution of elliptic partial differential equations on surfaces: Regulari
 Adviser: Michael O'Neil
 
 **B. Sc.**     
-*McMaster Universiry* &mdash; 2013&ndash;2017     
+*McMaster University* &mdash; 2013&ndash;2017     
 Honours Integrated Science (Physics) with a minor in Mathematics
 
 ## Employment
