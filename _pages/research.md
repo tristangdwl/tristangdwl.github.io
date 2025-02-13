@@ -9,9 +9,9 @@ author_profile: true
 I have developed a method for solving a class of decomposable scattering scattering problems in complicated unbounded domains. If the computational domain can be split into simple subdomains (such as straight waveguides or periodic gratings), then the domain Green's functions for each piece can be used to reduce the scattering problem to an integral equation on the domain boundaries. The resulting integral equation can then be analytically continued to the complex plane, where it can be safely truncated and discretized using standard integral equation techniques.
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/2816d9da-41f6-4f4a-bfea-acee4ac6d43e" width="32%"" align="middle"/>
-  <img src="https://github.com/user-attachments/assets/365c0fd0-b8bb-4474-8536-103d21b0b5cc" width="26%"" align="middle"/>
-  <img src="https://github.com/user-attachments/assets/cb71b2da-433f-4359-9758-0140b785074f" width="28%"" align="middle"/>
+  <img src="https://github.com/user-attachments/assets/2816d9da-41f6-4f4a-bfea-acee4ac6d43e" width="32%" align="middle"/>
+  <img src="https://github.com/user-attachments/assets/365c0fd0-b8bb-4474-8536-103d21b0b5cc" width="26%" align="middle"/>
+  <img src="https://github.com/user-attachments/assets/cb71b2da-433f-4359-9758-0140b785074f" width="28%" align="middle"/>
 </p>
 
 
