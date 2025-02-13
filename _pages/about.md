@@ -27,29 +27,12 @@ PDEs on surfaces occur in a wide variety of applications.
 ![Surface Ginzburg-Landau equation](../images/surface_GL.mp4)
 
 Here's a fun movie
-<video src="https://github.com/tristangdwl/tristangdwl.github.io/blob/master/images/surface_GL.mp4" width="400"/>
-
-try 2
-<video width="400" autoplay>
-  <source src="https://github.com/tristangdwl/tristangdwl.github.io/blob/master/images/surface_GL.mp4" type="video/mp4">
-</video>
 
 try 3
 <video width="400" autoplay>
   <source src="https://github.com/tristangdwl/tristangdwl.github.io/blob/master/images/surface_GL.mp4" type="video/mp4">
 </video>
 
-try 4
- <video width="320" height="240" autoplay>
-  <source src="https://github.com/tristangdwl/tristangdwl.github.io/master/images/surface_GL.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
-
-try 5
- <video width="320" height="240" autoplay>
-  <source src="https://media.githubusercontent.com/media/tristangdwl/tristangdwl.github.io/master/images/surface_GL.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
 
 ### A domain decomposition method for waveguide circuits
 
