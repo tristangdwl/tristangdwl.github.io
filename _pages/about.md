@@ -20,11 +20,36 @@ My recent work includes a new integral equation method for solving elliptic PDEs
 ### Scattering problems in unbounded interfaces
 I have developed a method for solving a class of decomposable scattering scattering problems involving unbounded interfaces. If the computational domain can be split into simple subdomains (such as straight waveguides or periodic gratings), then the domain Green's functions for each piece can be used to reduce the scattering problem to an integral equation on the domain boundaries. The resulting integral equation can then be analytically continued to the complex plane, where it can be safely truncated and discretized using standard integral equation techniques.
 
-<img src="https://github.com/user-attachments/assets/2816d9da-41f6-4f4a-bfea-acee4ac6d43e" width="300"/>
+<img src="https://github.com/user-attachments/assets/2816d9da-41f6-4f4a-bfea-acee4ac6d43e" width="400"/>
 
 ### A fast solver for surface PDEs
 PDEs on surfaces occur in a wide variety of applications.    
 ![Surface Ginzburg-Landau equation](../images/surface_GL.mp4)
+
+Here's a fun movie
+<video src="https://github.com/tristangdwl/tristangdwl.github.io/blob/master/images/surface_GL.mp4" width="400"/>
+
+try 2
+<video width="400" autoplay>
+  <source src="https://github.com/tristangdwl/tristangdwl.github.io/blob/master/images/surface_GL.mp4" type="video/mp4">
+</video>
+
+try 3
+<video width="400" autoplay>
+  <source src="https://github.com/tristangdwl/tristangdwl.github.io/blob/master/images/surface_GL.mp4" type="video/mp4">
+</video>
+
+try 4
+ <video width="320" height="240" autoplay>
+  <source src="https://github.com/tristangdwl/tristangdwl.github.io/master/images/surface_GL.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
+try 5
+ <video width="320" height="240" autoplay>
+  <source src="https://media.githubusercontent.com/media/tristangdwl/tristangdwl.github.io/master/images/surface_GL.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
 
 ### A domain decomposition method for waveguide circuits
 
