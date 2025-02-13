@@ -28,12 +28,6 @@ PDEs on surfaces occur in a wide variety of applications.
 
 Here's a fun movie
 
-try 3
-video width="400" autoplay
-  source src="https://github.com/tristangdwl/tristangdwl.github.io/blob/master/images/surface_GL.mp4" type="video/mp4"
-/video
-
-
 ### A domain decomposition method for waveguide circuits
 
 ## Publications
