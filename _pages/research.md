@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Scattering problems in unbounded interfaces
-I have developed a method for solving a class of decomposable scattering scattering problems in complicated unbounded domains, problems where the computational domain can be split into simple subdomains (such as straight waveguides or periodic gratings). The domain Green's function for each piece can then be used to reduce the scattering problem to an integral equation on the domain boundaries. The resulting integral equation can be analytically continued to the complex plane, where it can be safely truncated and discretized using standard integral equation techniques.
+I have developed a method for solving a class of decomposable scattering scattering problems in complicated unbounded domains. This method starts by splitting the computational domain into simple subdomains (such as straight waveguides or periodic gratings). The domain Green's function for each piece can then be used to reduce the scattering problem to an integral equation on the domain boundaries. The resulting integral equation can be analytically continued to the complex plane, where it can be safely truncated and discretized using standard integral equation techniques.
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/2816d9da-41f6-4f4a-bfea-acee4ac6d43e" width="32%" align="middle"/> 
@@ -16,7 +16,7 @@ I have developed a method for solving a class of decomposable scattering scatter
 
 
 ### A fast solver for surface PDEs
-I showed that 2D fundamental solutions of elliptic problems can be used to reformulate elliptic surface PDEs as a well conditioned surface integral equation. I then developed a singular quadrature scheme and fast direct solver allowing the resulting integral equation to be accurately discretized and efficiently solved. I have used this method to solve a variety of problems such as eigenvalue problems and oscillatory problems on unbounded surfaces. I have also used it as an implicit time stepper for hyperbollic problems on surfaces.
+I showed that a broad class of elliptic surface PDEs can be reformulated as well conditioned surface integral equations using their 2D fundamental solutions. I then developed a singular quadrature scheme and fast direct solver which allow the resulting integral equations to be accurately discretized and efficiently solved. I have used this method to solve a variety of problems such as eigenvalue problems and oscillatory problems on unbounded surfaces. I have also used it as an implicit time stepper for hyperbollic problems on surfaces.
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4172c756-204d-48e7-b3ae-934b84d38e23" width="38%"  align="middle"/>   
   <img src="https://github.com/user-attachments/assets/d4ea7161-ec08-4b59-bc32-2e784c322330" width="55%"  align="middle"/>
