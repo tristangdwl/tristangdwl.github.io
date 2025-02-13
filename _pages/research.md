@@ -18,17 +18,18 @@ I have developed a method for solving a class of decomposable scattering scatter
 ### A fast solver for surface PDEs
 I showed that 2D Green's for elliptic problems can be used to reformulate elliptic surface PDEs as a well conditioned surface integral equation. I then developed a singular quadrature scheme and fast direct solver allowing the resulting integral equation to be accurately discretized and efficiently solved. I have used this method to solve a variety of problems, including eigenvalue problems, oscillatory problems on unbounded surfaces, and as an implicit time stepper for hyperbollic equations.
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/d4ea7161-ec08-4b59-bc32-2e784c322330" width="40%"  align="middle"/>  
-  <img src="https://github.com/user-attachments/assets/4172c756-204d-48e7-b3ae-934b84d38e23" width="32%"  align="middle"/>
+  <img src="https://github.com/user-attachments/assets/d4ea7161-ec08-4b59-bc32-2e784c322330" width="55%"  align="middle"/>  
+  <img src="https://github.com/user-attachments/assets/4172c756-204d-48e7-b3ae-934b84d38e23" width="38%"  align="middle"/>
 </p>
 
 <img src="https://github.com/user-attachments/assets/76a41859-c808-45b0-9271-a36d03aaf94e" width="32%" />
 
-![Surface Ginzburg-Landau equation](../images/surface_GL.mp4)
+![](../images/surface_GL.mp4)
 
 ### A domain decomposition method for waveguide circuits
 I have demonstrated how a complicated photonic circuit can be efficiently be simulated by constructing impedance to impedance maps for individual circuit elements and then recursively merging elements by merging their impedance to impedance maps. When circuit elements are connected by straight pipes, these maps can be greatly compressed by projecting the impedance data onto the modes for each pipe.
-<img src="https://github.com/user-attachments/assets/d30d5f61-250d-490f-8f79-ed0d7a55717f" width="32%" />
+
+<img src="https://github.com/user-attachments/assets/d30d5f61-250d-490f-8f79-ed0d7a55717f" width="40%" />
 
 
 
