@@ -8,6 +8,7 @@ author_profile: true
 ### Scattering problems in unbounded interfaces
 I have developed a method for solving a class of decomposable scattering problems in complicated unbounded domains. This method starts by splitting the computational domain into simple subdomains (such as straight waveguides or periodic gratings). The domain Green's function for each piece can then be used to reduce the scattering problem to an integral equation on the domain boundaries. The resulting integral equation can be analytically continued to the complex plane, where it can be safely truncated and discretized using standard integral equation techniques.
 
+<!-- To upload an image, add it to the repo, then right click, "copy link" and paste it into the markdown" -->
 <p float="left">
   <img src="https://github.com/user-attachments/assets/2816d9da-41f6-4f4a-bfea-acee4ac6d43e" width="32%" align="middle"/> 
   <img src="https://github.com/user-attachments/assets/365c0fd0-b8bb-4474-8536-103d21b0b5cc" width="26%" align="middle"/> 
@@ -30,7 +31,8 @@ I showed that a broad class of elliptic surface PDEs can be reformulated as well
 ### A domain decomposition method for waveguide circuits
 I have demonstrated how a complicated photonic circuit can be efficiently be simulated by recursively merging impedance to impedance maps for individual circuit elements. When circuit elements are connected by straight pipes, these maps can be greatly compressed by projecting the impedance data onto the modes for each pipe, resulting in an efficient numerical solver.
 
-<img src="https://github.com/user-attachments/assets/d30d5f61-250d-490f-8f79-ed0d7a55717f" width="40%" />
+<!--- <img src="https://github.com/user-attachments/assets/d30d5f61-250d-490f-8f79-ed0d7a55717f" width="40%" />-->
+<img src="https://github.com/user-attachments/assets/5ec7da70-30b7-4eeb-a717-a49ab38155db" width="40%" />
 
 
 
