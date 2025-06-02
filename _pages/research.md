@@ -11,7 +11,8 @@ I have developed a method for solving a class of decomposable scattering problem
 <p float="left">
   <img src="https://github.com/user-attachments/assets/2816d9da-41f6-4f4a-bfea-acee4ac6d43e" width="32%" align="middle"/> 
   <img src="https://github.com/user-attachments/assets/365c0fd0-b8bb-4474-8536-103d21b0b5cc" width="26%" align="middle"/> 
-  <img src="https://github.com/user-attachments/assets/cb71b2da-433f-4359-9758-0140b785074f" width="28%" align="middle"/>
+  <!--<img src="https://github.com/user-attachments/assets/cb71b2da-433f-4359-9758-0140b785074f" width="28%" align="middle"/>-->
+  <img src="https://github.com/user-attachments/assets/56204107-2d06-4ed0-877f-61b4a08794df" width="28%" align="middle"/>
 </p>
 
 
