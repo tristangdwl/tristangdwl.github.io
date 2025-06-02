@@ -22,7 +22,7 @@ I showed that a broad class of elliptic surface PDEs can be reformulated as well
   <img src="https://github.com/user-attachments/assets/d4ea7161-ec08-4b59-bc32-2e784c322330" width="55%"  align="middle"/>
 </p>
 
-<img src="https://github.com/user-attachments/assets/76a41859-c808-45b0-9271-a36d03aaf94e" width="32%" />
+<!-- <img src="https://github.com/user-attachments/assets/76a41859-c808-45b0-9271-a36d03aaf94e" width="32%" /> -->
 
 ![](../images/surface_GL.mp4)
 ### A domain decomposition method for waveguide circuits
