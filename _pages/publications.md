@@ -12,7 +12,7 @@ Epstein, C., Goodwill, T., Hoskins, J., Quinn, S. and Rachh, M.  *Complex scalin
 
 Goodwill, T. and Epstein, C. *A numerical method for scattering problems with unbounded interfaces.* Preprint [arXiv 2411.11204](https://arxiv.org/pdf/2411.11204).
 
-Goodwill, T. and O'Neil, M. A parametrix method for elliptic surface PDEs. Accepted by Pure and Applied Analysis, 2025. [arXiv link](https://arxiv.org/pdf/2401.12501)
+Goodwill, T. and O'Neil, M. A parametrix method for elliptic surface PDEs. Pure and Applied Analysis 7(1), 2025. [arXiv link](https://arxiv.org/pdf/2401.12501)
 
 Goodwill, T. and O'Neil, M. An interface formulation of the Laplace-Beltrami problem on piecewise smooth surfaces. SIAM Journal on Mathematical Analysis 55(6), 2023. [arXiv link](https://arxiv.org/pdf/2108.08959)
 
