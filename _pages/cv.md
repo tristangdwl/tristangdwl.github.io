@@ -28,7 +28,7 @@ Honours Integrated Science (Physics) with a minor in Mathematics
 *Courant Institute of Mathematical Sciences, New York University* &mdash; Spring and Fall 2019, Fall 2021, Spring 2022
 
 ## Papers
-Goodwill, T., Greengard, L., Hoskins, J., Rachh, M, and Wang, Y. *Fast multipole method with complex coordinates.* Preprint arXiv 2509.TBD
+Goodwill, T., Greengard, L., Hoskins, J., Rachh, M, and Wang, Y. *Fast multipole method with complex coordinates.* Preprint arXiv 2509.TBA
 
 Agocs, F., Goodwill, T. and Hoskins, J. *Complex scaling for the junction of semi-infinite gratings.* Preprint arXiv 2509.02951
 
