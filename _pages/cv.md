@@ -28,9 +28,15 @@ Honours Integrated Science (Physics) with a minor in Mathematics
 *Courant Institute of Mathematical Sciences, New York University* &mdash; Spring and Fall 2019, Fall 2021, Spring 2022
 
 ## Papers
+Goodwill, T., Greengard, L., Hoskins, J., Rachh, M, and Wang, Y. *Fast multipole method with complex coordinates.* Preprint arXiv 2509.TBD
+
+Agocs, F., Goodwill, T. and Hoskins, J. *Complex scaling for the junction of semi-infinite gratings.* Preprint arXiv 2509.02951
+
+Epstein, C., Goodwill, T., Hoskins, J., Quinn, S. and Rachh, M.  *Complex scaling for open waveguides.* Preprint arXiv 2506.10263
+
 Goodwill, T. and Epstein, C. *A numerical method for scattering problems with unbounded interfaces.* Preprint arXiv 2411.11204
 
-Goodwill, T. and O'Neil, M. *A parametrix method for elliptic surface PDEs.* Accepted by Pure and Applied Analysis, 2025
+Goodwill, T. and O'Neil, M. *A parametrix method for elliptic surface PDEs.* Pure and Applied Analysis 7(1), 2025.
 
 Goodwill, T. and O'Neil, M. *An interface formulation of
       the Laplace-Beltrami problem on piecewise smooth surfaces.* SIAM Journal on Mathematical Analysis 55(6), 2023.
@@ -46,6 +52,8 @@ Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S.
 
 
 ## Awards and other experience
+**AMS-Simons Travel Grant** &mdash; July, 2025 &ndash;June 2027 
+
 **Numerical PDEs: Analysis, Algorithms, and Data Challenges** &mdash; January&ndash;March 2024    
 Semester workshop &mdash; ICERM, Providence
 
@@ -56,7 +64,23 @@ SIAM CSE 2023 &mdash; RAI Congress Center, Amsterdam
 SIAM Annual Meeting 2022 &mdash; David L. Lawrence Convention Center, Pittsburgh, Pennsylvania
 
 
+## Organized Minisymposia
+**Recent Advances in Fast and Accurate Methods for Wave Problems** &mdash; July 14, 2025   
+with Nour Al Hassanieh, Flatiron Institute &mdash; ICOSAHOM 2025 &mdash; McGill University
+
+**Recent Advances in Integral Equation Methods and Their Applications** &mdash; March 5, 2025   
+with Felipe Vico, Universidad Politecnica de Valencia &mdash; SIAM CSE 2025 &mdash; Fort Worth Convention Center
+
 ## Talks
+**A fast integral equation method for PDEs on surfaces** &mdash; July 29, 2025   
+12th Applied Inverse Problems Conference 2025 &mdash; FGV EMAp, Brazil
+
+**Complex Scattering Makes for Simple Numerics: A Method for Simulating Junctions of Several Semi-Infinite Domains** &mdash; July 14, 2025   
+ICOSAHOM 2025 &mdash; McGill University
+
+**Complex Scattering Makes for Simple Numerics: A Method for Simulating Junctions of Several Semi-Infinite Domains** &mdash; March 5, 2025   
+SIAM CSE 2025 &mdash; Fort Worth Convention Center
+
 **Complex scattering makes for simple numerics** &mdash; February 6, 2025     
 Computational and Applied Math Colloquium &mdash; Committee on Computational and Applied Mathematics, University of Chicago
 
