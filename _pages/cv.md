@@ -46,9 +46,9 @@ Li, H., Goodwill, T., Wang, Z. J., and Ristroph, L. *Centre of mass location, fl
 Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S., and Plant, D. V. *DSP-free coherent-lite transceiver for next generation single wavelength optical intra-datacenter interconnects.* Optics Express, 26(7), 2018.
 
 ## Software development
-**ChunkIE A Matlab integral equation toolbox** &mdash; March 2024&ndash;Present
+[**ChunkIE A Matlab integral equation toolbox**](https://github.com/fastalgorithms/chunkie) &mdash; March 2024&ndash;Present
 
-**fmm3dbie** &mdash; June 2024&ndash;Present
+[**fmm3dbie**](https://github.com/fastalgorithms/fmm3dbie) &mdash; June 2024&ndash;Present
 
 
 ## Awards and other experience
@@ -78,7 +78,10 @@ with Felipe Vico, Universidad Politecnica de Valencia &mdash; SIAM CSE 2025 &mda
 **Complex Scattering Makes for Simple Numerics: A Method for Simulating Junctions of Several Semi-Infinite Domains** &mdash; July 14, 2025   
 ICOSAHOM 2025 &mdash; McGill University
 
-**Complex Scattering Makes for Simple Numerics: A Method for Simulating Junctions of Several Semi-Infinite Domains** &mdash; March 5, 2025   
+**Complex Scattering Makes for Simple Numerics** &mdash; June 11, 2025   
+CCM Colloquium &mdash; Flatiron Institute
+
+**Complex Scattering Makes for Simple Numerics** &mdash; March 5, 2025   
 SIAM CSE 2025 &mdash; Fort Worth Convention Center
 
 **Complex scattering makes for simple numerics** &mdash; February 6, 2025     
