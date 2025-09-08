@@ -75,13 +75,13 @@ with Felipe Vico, Universidad Politecnica de Valencia &mdash; SIAM CSE 2025 &mda
 **A fast integral equation method for PDEs on surfaces** &mdash; July 29, 2025   
 12th Applied Inverse Problems Conference 2025 &mdash; FGV EMAp, Brazil
 
-**Complex Scattering Makes for Simple Numerics: A Method for Simulating Junctions of Several Semi-Infinite Domains** &mdash; July 14, 2025   
+**Complex scattering makes for simple numerics: A method for simulating junctions of several semi-infinite domains** &mdash; July 14, 2025   
 ICOSAHOM 2025 &mdash; McGill University
 
-**Complex Scattering Makes for Simple Numerics** &mdash; June 11, 2025   
+**Complex scattering makes for simple numerics** &mdash; June 11, 2025   
 CCM Colloquium &mdash; Flatiron Institute
 
-**Complex Scattering Makes for Simple Numerics** &mdash; March 5, 2025   
+**Complex scattering makes for simple numerics** &mdash; March 5, 2025   
 SIAM CSE 2025 &mdash; Fort Worth Convention Center
 
 **Complex scattering makes for simple numerics** &mdash; February 6, 2025     
