@@ -73,7 +73,7 @@ with Felipe Vico, Universidad Politecnica de Valencia &mdash; SIAM CSE 2025 &mda
 
 ## Talks
 **A fast integral equation method for PDEs on surfaces** &mdash; July 29, 2025   
-12th Applied Inverse Problems Conference 2025 &mdash; FGV EMAp, Brazil
+12th Applied Inverse Problems Conference &mdash; FGV EMAp, Brazil
 
 **Complex scattering makes for simple numerics: A method for simulating junctions of several semi-infinite domains** &mdash; July 14, 2025   
 ICOSAHOM 2025 &mdash; McGill University
