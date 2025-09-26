@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Goodwill, T., Jiang, S., Rachh, M., Sugita, K. *A domain decomposition method for computing the scattering matrix of waveguide circuits.* Preprint [arXiv 2509.20695](https://arxiv.org/pdf/2509.20695)
+
 Goodwill, T., Greengard, L., Hoskins, J., Rachh, M, and Wang, Y. *Fast multipole method with complex coordinates.* Preprint [arXiv 2509.05458](https://arxiv.org/pdf/2509.05458)
 
 Agocs, F., Goodwill, T. and Hoskins, J. *Complex scaling for the junction of semi-infinite gratings.* Preprint [arXiv 2509.02951](https://arxiv.org/pdf/2509.02951)
