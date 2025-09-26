@@ -53,13 +53,13 @@ Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S.
 [**fmm3dbie**](https://github.com/fastalgorithms/fmm3dbie) &mdash; June 2024&ndash;Present
 
 ## Teaching
-**CAAM 37830 Scientific Computing with Python** &mdash; Autumn 2023, Autumn 2024, Autumn 2025
+**CAAM 37830 Scientific Computing with Python** &mdash; Autumn 2023, Autumn 2024, Autumn 2025\
 Master's level, Committee on Computational and Applied Mathematics, University of Chicago
 
-**MATH 21100 Basic Numerical Analysis** &mdash; Spring 2024, Spring 2025
+**MATH 21100 Basic Numerical Analysis** &mdash; Spring 2024, Spring 2025\
 Undergraduate level, Department of Mathematics, University of Chicago
 
-**CAAM 31110 Integral Equation Methods for PDEs** &mdash; Winter 2025
+**CAAM 31110 Integral Equation Methods for PDEs** &mdash; Winter 2025\
 PhD topics course, Committee on Computational and Applied Mathematics, University of Chicago
 
 ## Awards and other experience
