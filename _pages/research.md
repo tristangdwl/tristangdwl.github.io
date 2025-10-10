@@ -18,7 +18,7 @@ I have developed a method for solving a class of decomposable scattering problem
 
 
 ### A fast solver for surface PDEs
-I showed that a broad class of elliptic surface PDEs can be reformulated as well-conditioned surface integral equations using their 2D fundamental solutions. I then developed a singular quadrature scheme and fast direct solver which allow the resulting integral equations to be accurately discretized and efficiently solved. I have used this method to solve a variety of problems such as eigenvalue problems and oscillatory problems on unbounded surfaces. I have also used it as an implicit time stepper for hyperbollic problems on surfaces.
+I showed that a broad class of elliptic surface PDEs can be reformulated as well-conditioned surface integral equations using their 2D fundamental solutions. I then developed a singular quadrature scheme and fast direct solver which allow the resulting integral equations to be accurately discretized and efficiently solved. I have used this method to solve a variety of problems such as the surface Stokes equations, eigenvalue problems, and oscillatory problems on unbounded surfaces. I have also used it as an implicit time stepper for hyperbollic problems on surfaces.
 <p float="left">
   <!--<img src="https://github.com/user-attachments/assets/4172c756-204d-48e7-b3ae-934b84d38e23" width="38%"  align="middle"/> -->
   <img src="https://github.com/tristangdwl/tristangdwl.github.io/blob/master/images/star_stokes.png?raw=true" width="38%" align="middle"/>
