@@ -28,6 +28,8 @@ Honours Integrated Science (Physics) with a minor in Mathematics
 *Courant Institute of Mathematical Sciences, New York University* &mdash; Spring and Fall 2019, Fall 2021, Spring 2022
 
 ## Papers
+Askham, T., Goodwill, T., Hoskins, J. G., Nekrasov, P., and Rachh, M. *Surface layers and linearized water waves: a boundary integral equation framework.* Preprint arXiv 2510.22748
+
 Goodwill, T., Jiang, S., Rachh, M., Sugita, K. *A domain decomposition method for computing the scattering matrix of waveguide circuits.* Preprint arXiv 2509.20695
 
 Goodwill, T., Greengard, L., Hoskins, J., Rachh, M, and Wang, Y. *Fast multipole method with complex coordinates.* Preprint arXiv 2509.05458
