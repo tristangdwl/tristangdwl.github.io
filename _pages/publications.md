@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+Goodwill, T., Hoskins, J. G., Gimbutas, Z., Wu, B. A parametrix for the surface Stokes equation. [arXiv 2602.20395](https://arxiv.org/pdf/2602.20395)
+
 Askham, T., Goodwill, T., Hoskins, J. G., Nekrasov, P., and Rachh, M. Surface layers and linearized water waves: a boundary integral equation framework. [arXiv 2510.22748](https://arxiv.org/pdf/2510.22748)
 
 Goodwill, T., Jiang, S., Rachh, M., Sugita, K. *A domain decomposition method for computing the scattering matrix of waveguide circuits.* Preprint [arXiv 2509.20695](https://arxiv.org/pdf/2509.20695)
