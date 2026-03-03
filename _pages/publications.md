@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Agocs, F., T. Goodwill, T., Hoskins, J. G,, and Nekrasov, P. Integral equations for flexural scattering problems with periodic boundaries. [arXiv 2603.00366](https://arxiv.org/pdf/2603.00366)
+Agocs, F., T. Goodwill, T., Hoskins, J. G., and Nekrasov, P. Integral equations for flexural scattering problems with periodic boundaries. [arXiv 2603.00366](https://arxiv.org/pdf/2603.00366)
 
 Goodwill, T., Hoskins, J. G., Gimbutas, Z., and Wu, B. A parametrix for the surface Stokes equation. [arXiv 2602.20395](https://arxiv.org/pdf/2602.20395)
 
