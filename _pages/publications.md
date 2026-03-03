@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Goodwill, T., Hoskins, J. G., Gimbutas, Z., Wu, B. A parametrix for the surface Stokes equation. [arXiv 2602.20395](https://arxiv.org/pdf/2602.20395)
+Agocs, F., T. Goodwill, T., Hoskins, J. G,, and Nekrasov, P. Integral equations for flexural scattering problems with periodic boundaries. [arXiv 2603.00366](https://arxiv.org/pdf/2603.00366)
+
+Goodwill, T., Hoskins, J. G., Gimbutas, Z., and Wu, B. A parametrix for the surface Stokes equation. [arXiv 2602.20395](https://arxiv.org/pdf/2602.20395)
 
 Askham, T., Goodwill, T., Hoskins, J. G., Nekrasov, P., and Rachh, M. Surface layers and linearized water waves: a boundary integral equation framework. [arXiv 2510.22748](https://arxiv.org/pdf/2510.22748)
 
