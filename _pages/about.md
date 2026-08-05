@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Mathematics Department at the University of Florida. Prior to moving to UF, I was a William H. Kruskal Instructor in the Committee for Computational and Applied Mathematics in the Department of Statistics at the University of Chicago. My research uses the tools of numerical analysis and applied analysis to develop new fast algorithms for numerically solving PDEs. 
+I am an assistant professor in the Department of Mathematics at the University of Florida. Prior to moving to UF, I was a William H. Kruskal Instructor in the Committee for Computational and Applied Mathematics in the Department of Statistics at the University of Chicago. My research uses the tools of numerical analysis and applied analysis to develop new fast algorithms for numerically solving PDEs. 
 
 My recent work includes the development and analysis of integral equation methods for elliptic PDEs on surfaces and integral equation methods for scattering problems involving unbounded interfaces. I have also studied domain decomposition methods for photonic circuits, the regularity of PDEs on surfaces with edges and corners, and efficient numerical methods for surface wave problems.
