@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tristan Goodwill"
 title_separator          : "-"
 name                     : &name "Tristan Goodwill"
-description              : &description "William H. Kruskal Instructor, CCAM, University of Chicago"
+description              : &description "Assistant Professor, Department of Mathematics, University of Florida"
 url                      : https://tristangdwl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tristangdwl/tristangdwl.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tristan Goodwill"
   avatar           : "profile_2.jpg"
-  bio              : "William H. Kruskal Instructor, CCAM, University of Chicago"
-  location         : "Chicago, Illinois"
+  bio              : "Assistant Professor, Department of Mathematics, University of Florida"
+  location         : "Gainesville, Florida"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "tgoodwill@uchicago.edu"
+  email            : "tgoodwill@ufl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
