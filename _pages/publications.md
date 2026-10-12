@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Goodwill, T. and Melia, O. A kernel-independent precorrected-FFT method. [arXiv 2610.12821](https://arxiv.org/abs/2610.12821)
+
 Lindsay, A. E., Bernoff, A. J., Goodwill, T., Hoskins, J. G. The three dimensional Neumann Green's function for general surfaces: singular asymptotics and boundary integral methods. [arXiv 2606.12714](https://arxiv.org/pdf/2606.12714)
 
 Agocs, F., T. Goodwill, T., Hoskins, J. G., and Nekrasov, P. Integral equations for flexural scattering problems with periodic boundaries. [arXiv 2603.00366](https://arxiv.org/pdf/2603.00366)
