@@ -21,8 +21,11 @@ Adviser: Michael O'Neil
 Honours Integrated Science (Physics) with a minor in Mathematics
 
 ## Employment
+**Assistant Professor**   
+*Department of Mathematics, University of Florida* &mdash; 2026&ndash;Present  
+
 **William H. Kruskal Instructor**   
-*Committee on Computational and Applied Mathematics, University of Chicago* &mdash; 2023&ndash;Present  
+*Committee on Computational and Applied Mathematics, University of Chicago* &mdash; 2023&ndash;2026  
 
 **Teaching Assistant**   
 *Courant Institute of Mathematical Sciences, New York University* &mdash; Spring and Fall 2019, Fall 2021, Spring 2022
