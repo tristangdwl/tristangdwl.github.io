@@ -28,6 +28,8 @@ Honours Integrated Science (Physics) with a minor in Mathematics
 *Courant Institute of Mathematical Sciences, New York University* &mdash; Spring and Fall 2019, Fall 2021, Spring 2022
 
 ## Papers
+Goodwill, T. and Melia, O. *A kernel-independent precorrected-FFT method.* Preprint arXiv 2610.12821
+
 Lindsay, A. E., Bernoff, A. J., Goodwill, T., Hoskins, J. G. *The three dimensional Neumann Green's function for general surfaces: singular asymptotics and boundary integral methods.* Preprint arXiv 2606.12714
 
 Agocs, F., T. Goodwill, T., Hoskins, J. G., and Nekrasov, P. *Integral equations for flexural scattering problems with periodic boundaries.* Preprint arXiv 2603.00366
