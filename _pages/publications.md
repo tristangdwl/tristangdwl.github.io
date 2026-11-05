@@ -6,7 +6,7 @@ author_profile: true
 ---
 Goodwill, T. and Melia, O. A kernel-independent precorrected-FFT method. [arXiv 2610.12821](https://arxiv.org/abs/2610.12821)
 
-Lindsay, A. E., Bernoff, A. J., Goodwill, T., Hoskins, J. G. The three dimensional Neumann Green's function for general surfaces: singular asymptotics and boundary integral methods. [arXiv 2606.12714](https://arxiv.org/pdf/2606.12714)
+Lindsay, A. E., Bernoff, A. J., Goodwill, T., Hoskins, J. G. The three dimensional Neumann Green's function for general surfaces: singular asymptotics and boundary integral methods. Accepted to Studies in Applied Mathematics. [arXiv 2606.12714](https://arxiv.org/pdf/2606.12714)
 
 Agocs, F., T. Goodwill, T., Hoskins, J. G., and Nekrasov, P. Integral equations for flexural scattering problems with periodic boundaries. [arXiv 2603.00366](https://arxiv.org/pdf/2603.00366)
 
@@ -18,7 +18,7 @@ Goodwill, T., Jiang, S., Rachh, M., Sugita, K. *A domain decomposition method fo
 
 Goodwill, T., Greengard, L., Hoskins, J., Rachh, M, and Wang, Y. *Fast multipole method with complex coordinates.* Preprint [arXiv 2509.05458](https://arxiv.org/pdf/2509.05458)
 
-Agocs, F., Goodwill, T. and Hoskins, J. *Complex scaling for the junction of semi-infinite gratings.* Preprint [arXiv 2509.02951](https://arxiv.org/pdf/2509.02951)
+Agocs, F., Goodwill, T. and Hoskins, J. *Complex scaling for the junction of semi-infinite gratings.* Frontiers in Applied Mathematics, 2026, 2: 110-158. [arXiv link](https://arxiv.org/pdf/2509.02951)
 
 Epstein, C., Goodwill, T., Hoskins, J., Quinn, S. and Rachh, M.  *Complex scaling for open waveguides.* Preprint [arXiv 2506.10263](https://arxiv.org/pdf/2506.10263)
 
