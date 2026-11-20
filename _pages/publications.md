@@ -6,7 +6,7 @@ author_profile: true
 ---
 Goodwill, T. and Melia, O. A kernel-independent precorrected-FFT method. [arXiv 2610.12821](https://arxiv.org/abs/2610.12821)
 
-Lindsay, A. E., Bernoff, A. J., Goodwill, T., Hoskins, J. G. The three dimensional Neumann Green's function for general surfaces: singular asymptotics and boundary integral methods. Accepted to Studies in Applied Mathematics. [arXiv 2606.12714](https://arxiv.org/pdf/2606.12714)
+Lindsay, A. E., Bernoff, A. J., Goodwill, T., Hoskins, J. G. The three dimensional Neumann Green's function for general surfaces: singular asymptotics and boundary integral methods. Studies in Applied Mathematics 157(5), 2026. [arXiv preprint](https://arxiv.org/pdf/2606.12714)
 
 Agocs, F., T. Goodwill, T., Hoskins, J. G., and Nekrasov, P. Integral equations for flexural scattering problems with periodic boundaries. [arXiv 2603.00366](https://arxiv.org/pdf/2603.00366)
 
@@ -14,15 +14,15 @@ Goodwill, T., Hoskins, J. G., Gimbutas, Z., and Wu, B. A parametrix for the surf
 
 Askham, T., Goodwill, T., Hoskins, J. G., Nekrasov, P., and Rachh, M. Surface layers and linearized water waves: a boundary integral equation framework. [arXiv 2510.22748](https://arxiv.org/pdf/2510.22748)
 
-Goodwill, T., Jiang, S., Rachh, M., Sugita, K. *A domain decomposition method for computing the scattering matrix of waveguide circuits.* Preprint [arXiv 2509.20695](https://arxiv.org/pdf/2509.20695)
+Goodwill, T., Jiang, S., Rachh, M., Sugita, K. *A domain decomposition method for computing the scattering matrix of waveguide circuits.* SIAM Journal on Applied Mathematics 8(6), 2026. [arXiv link](https://arxiv.org/pdf/2509.20695)
 
 Goodwill, T., Greengard, L., Hoskins, J., Rachh, M, and Wang, Y. *Fast multipole method with complex coordinates.* Preprint [arXiv 2509.05458](https://arxiv.org/pdf/2509.05458)
 
 Agocs, F., Goodwill, T. and Hoskins, J. *Complex scaling for the junction of semi-infinite gratings.*  Preprint [arXiv 2509.02951](https://arxiv.org/pdf/2509.02951)
 
-Epstein, C., Goodwill, T., Hoskins, J., Quinn, S. and Rachh, M.  *Complex scaling for open waveguides.* Frontiers in Applied Mathematics, 2026, 2: 110-158. [arXiv link](https://arxiv.org/pdf/2506.10263)
+Epstein, C., Goodwill, T., Hoskins, J., Quinn, S. and Rachh, M.  *Complex scaling for open waveguides.* Frontiers in Applied Mathematics, 2026. [arXiv link](https://arxiv.org/pdf/2506.10263)
 
-Goodwill, T. and Epstein, C. *A numerical method for scattering problems with unbounded interfaces.* Preprint [arXiv 2411.11204](https://arxiv.org/pdf/2411.11204).
+Goodwill, T. and Epstein, C. *A numerical method for scattering problems with unbounded interfaces.* Scientific Computing, 107(2), 2026. [arXiv preprint](https://arxiv.org/pdf/2411.11204).
 
 Goodwill, T. and O'Neil, M. A parametrix method for elliptic surface PDEs. Pure and Applied Analysis 7(1), 2025. [arXiv link](https://arxiv.org/pdf/2401.12501)
 
