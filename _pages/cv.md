@@ -35,15 +35,15 @@ Goodwill, T. and Melia, O. *A kernel-independent precorrected-FFT method.* Prepr
 
 Lindsay, A. E., Bernoff, A. J., Goodwill, T., Hoskins, J. G. *The three dimensional Neumann Green's function for general surfaces: singular asymptotics and boundary integral methods.* Studies in Applied Mathematics 157(5), 2026.
 
-Agocs, F., T. Goodwill, T., Hoskins, J. G., and Nekrasov, P. *Integral equations for flexural scattering problems with periodic boundaries.* Preprint arXiv 2603.00366
+Agocs, F., Goodwill, T., Hoskins, J. G., and Nekrasov, P. *Integral equations for flexural scattering problems with periodic boundaries.* Preprint arXiv 2603.00366
 
 Goodwill, T., Hoskins, J. G., Gimbutas, Z., and Wu, B. *A parametrix for the surface Stokes equation.* Preprint arXiv 2602.20395
 
 Askham, T., Goodwill, T., Hoskins, J. G., Nekrasov, P., and Rachh, M. *Surface layers and linearized water waves: a boundary integral equation framework.* Preprint arXiv 2510.22748
 
-Goodwill, T., Jiang, S., Rachh, M., Sugita, K. *A domain decomposition method for computing the scattering matrix of waveguide circuits.* SIAM Journal on Applied Mathematics 8(6), 2026.
+Goodwill, T., Jiang, S., Rachh, M., Sugita, K. *A domain decomposition method for computing the scattering matrix of waveguide circuits.* SIAM Journal on Applied Mathematics 86(6), 2026.
 
-Goodwill, T., Greengard, L., Hoskins, J., Rachh, M, and Wang, Y. *Fast multipole method with complex coordinates.* Preprint arXiv 2509.05458
+Goodwill, T., Greengard, L., Hoskins, J., Rachh, M., and Wang, Y. *Fast multipole method with complex coordinates.* Preprint arXiv 2509.05458
 
 Agocs, F., Goodwill, T. and Hoskins, J. *Complex scaling for the junction of semi-infinite gratings.* Preprint arXiv 2509.02951
 
@@ -61,12 +61,12 @@ Li, H., Goodwill, T., Wang, Z. J., and Ristroph, L. *Centre of mass location, fl
 Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S., and Plant, D. V. *DSP-free coherent-lite transceiver for next generation single wavelength optical intra-datacenter interconnects.* Optics Express, 26(7), 2018.
 
 ## Software development
-[**ChunkIE A Matlab integral equation toolbox**](https://github.com/fastalgorithms/chunkie) &mdash; March 2024&ndash;Present
+[**ChunkIE: A MATLAB integral equation toolbox**](https://github.com/fastalgorithms/chunkie) &mdash; March 2024&ndash;Present
 
 [**fmm3dbie**](https://github.com/fastalgorithms/fmm3dbie) &mdash; June 2024&ndash;Present
 
 ## Teaching
-**MAD4401 **Linear Algebra for Data Science**** &mdash; Spring 2027\
+**MAD4401 Linear Algebra for Data Science** &mdash; Spring 2027\
 Undergraduate level, Department of Mathematics, University of Florida
 
 **MAS4115 Linear Algebra for Data Science** &mdash; Fall 2026\
@@ -82,7 +82,7 @@ Undergraduate level, Department of Mathematics, University of Chicago
 PhD topics course, Committee on Computational and Applied Mathematics, University of Chicago
 
 ## Awards and other experience
-**AMS-Simons Travel Grant** &mdash; July, 2025 &ndash;June 2027 
+**AMS-Simons Travel Grant** &mdash; July 2025&ndash;June 2027
 
 **Numerical PDEs: Analysis, Algorithms, and Data Challenges** &mdash; January&ndash;March 2024    
 Semester workshop &mdash; ICERM, Providence
@@ -135,9 +135,9 @@ Semester Program: Numerical PDEs: Analysis, Algorithms, and Data Challenges &mda
 **A fast integral equation solver for surface PDEs** &mdash; December 1, 2023     
 International Workshop on "Vector- and Tensor-Valued Surface PDEs" &mdash; TU Dresden
 
-**Integral methods for surface PDES** &mdash; August 17, 2023    
+**Integral methods for surface PDEs** &mdash; August 17, 2023\
 ICOSAHOM 2023 &mdash; Yonsei University
 
-**Integral methods for surface PDES** &mdash; April 26, 2023    
+**Integral methods for surface PDEs** &mdash; April 26, 2023\
 Applied Mathematics Seminar &mdash; Yale University
 
