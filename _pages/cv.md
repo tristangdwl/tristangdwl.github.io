@@ -66,13 +66,19 @@ Morsy-Osman, M., Sowailem, M., El-Fiky, E., Goodwill, T., Hoang, T., Lessard, S.
 [**fmm3dbie**](https://github.com/fastalgorithms/fmm3dbie) &mdash; June 2024&ndash;Present
 
 ## Teaching
+**MAD4401 **Linear Algebra for Data Science**** &mdash; Spring 2027\
+Undergraduate level, Department of Mathematics, University of Florida
+
+**MAS4115 Linear Algebra for Data Science** &mdash; Fall 2026\
+Undergraduate level, Department of Mathematics, University of Florida
+
 **CAAM 37830 Scientific Computing with Python** &mdash; Autumn 2023, Autumn 2024, Autumn 2025\
 Master's level, Committee on Computational and Applied Mathematics, University of Chicago
 
-**MATH 21100 Basic Numerical Analysis** &mdash; Spring 2024, Spring 2025\
+**MATH 21100 Basic Numerical Analysis** &mdash; Spring 2024, Spring 2025, Spring 2026\
 Undergraduate level, Department of Mathematics, University of Chicago
 
-**CAAM 31110 Integral Equation Methods for PDEs** &mdash; Winter 2025\
+**CAAM 31110 Integral Equation Methods for PDEs** &mdash; Winter 2025, Winter 2026\
 PhD topics course, Committee on Computational and Applied Mathematics, University of Chicago
 
 ## Awards and other experience
@@ -96,6 +102,15 @@ with Nour Al Hassanieh, Flatiron Institute &mdash; ICOSAHOM 2025 &mdash; McGill 
 with Felipe Vico, Universidad Politecnica de Valencia &mdash; SIAM CSE 2025 &mdash; Fort Worth Convention Center
 
 ## Talks
+**Integral equation methods for ice floes and other surface wave scattering problems** &mdash; September 18, 2026   
+UF SIAM Seminar &mdash; Department of Mathematics, University of Florida
+
+**Integral equation methods for ice floes and other surface wave scattering problems** &mdash; July 10, 2026   
+The 15th AIMS Conference &mdash; National and Kapodistrian University of Athens, Greece
+
+**A complex scaling method for junctions of semi-infinite interfaces** &mdash; April 11, 2026   
+Midwest Numerical Analysis Day 2026 &mdash; University of Notre Dame
+
 **A fast integral equation method for PDEs on surfaces** &mdash; July 29, 2025   
 12th Applied Inverse Problems Conference &mdash; FGV EMAp, Brazil
 
